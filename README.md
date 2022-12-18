@@ -5,12 +5,14 @@ Basel, BS, Switzerland
 I like to design synthetic biomacromolecules using AI/ML. My background is in experimental and computational protein biophysics.
 
 ## **Education**
+
 | | |
 | :---| ---:|
 |**Ph.D.**, Chemical and Physical Biology (08/2015 - 08/2021)<br>Dissertation title: Integrative modeling of secondary active transporters<br> |**Vanderbilt University**<br>Nashville, TN, USA<br><br>|
 |**B.S.**, Biochemistry, Molecular, and Cell Biology (08/2008 - 05/2012)<br><br>| **University of New Hampshire**<br>Durham, NH, USA|
 
 ## **Work and Research Experience**
+
 | | |
 | :---| ---:|
 |**Investigator, Protein Design and Informatics** (05/2022 - Present)<br><li> Designed libraries of protein sequences for synthetic biology screens using custom-built AI/ML tools<br></li><li> Contributed to peer-reviewed publications describing the development and use of deep learning tools for protein design</li> | **GSK**<br>Baar, ZG, Switzerland<br><br><br><br>|
