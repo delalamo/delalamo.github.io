@@ -29,6 +29,7 @@ Dissertation title: Integrative modeling of secondary active transporters
 **Karyopharm Therapeutics**, Newton, MA, USA  
 *Senior Research Associate* (01/2014 - 05/2015)
 * Designed, implemented, and managed databases to track blood and plasma samples collected during Phase I and II clinical trials
+
 *Research Associate* (07/2012 - 12/2013)
 * Tested small molecule inhibitors and identified the future clinical candidate Eltanexor
 
