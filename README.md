@@ -41,15 +41,25 @@ Dissertation title: Integrative modeling of secondary active transporters
 
 ## **Publications**
 
-* Jeliazkov JR, Shapovalov MV, **del Alamo D**, Sternke MC, Karpiak JD ["Agile Language Transformers for Recombinant Protein Expression Optimization"](https://www.mlsb.io/papers_2022/Agile_Language_Transformers_for_Recombinant_Protein_Expression_Optimization.pdf) *Neural Information Processing Systems (NeurIPS)* (Dec 2022)
+2022:
+* Jeliazkov JR, Shapovalov MV, **del Alamo D**, Sternke MC, Karpiak JD ["Agile Language Transformers for Recombinant Protein Expression Optimization"](https://www.mlsb.io/papers_2022/Agile_Language_Transformers_for_Recombinant_Protein_Expression_Optimization.pdf) *Neural Information Processing Systems* (Dec 2022)
 * **del Alamo D**, Meiler J, Mchaourab HS ["Principles of alternating access in LeuT-fold transporters: commonalities and divergences (Review)"](https://doi.org/10.1016/j.jmb.2022.167746) *Journal of Molecular Biology* (Oct 2022)
 * **del Alamo D**, DeSousa L, Nair RM, Rahman S, Meiler J, Mchaourab HS [“Integrated AlphaFold2 and DEER investigation of the conformational dynamics of a pH-dependent APC antiporter”](https://doi.org/10.1073/pnas.2206129119) *Proceedings to the National Academy of Sciences* (Aug 2022)
 * Sala D\*, **del Alamo D\***, Mchaourab HS, Meiler J (\*equal contribution) ["Modeling of protein conformational changes with Rosetta guided by limited experimental data"](https://doi.org/10.1016/j.str.2022.04.013) *Structure* (Aug 2022)
 * **del Alamo D\***, Sala D\*, Mchaourab HS, Meiler J (\*equal contribution) ["Sampling alternative conformational states of transporters and receptors with AlphaFold2"](https://doi.org/10.7554/eLife.75751) *eLife* (Apr 2022)
+
+2021:
+
 * **del Alamo D**, Jagessar KL, Meiler J, Mchaourab HS [“Methodology for rigorous modeling of protein conformational changes by Rosetta using DEER distance restraints”](https://doi.org/10.1371/journal.pcbi.1009107) *Plos Computational Biology* (Jun 2021)
 * **del Alamo D**, Govaerts C, Mchaourab HS ["AlphaFold2 predicts the inward-facing conformation of the multidrug transporter LmrP"](https://doi.org/10.1002/prot.26138) *Proteins: Structure, Function, and Bioinformatics* (May 2021)
 * Schoeder CT, Schmitz S, Adolf-Bryfogle J, Sevy AM, Finn JA, Sauer MF, Bozhanova NG, Mueller BK, Sangha AK, Bonet J, Sheehan JH, Kuenze G, Marlow B, Smith ST, Woods H, Bender BJ, Martina CE, **del Alamo D**, Kodali P, Gulsevin A, Schief WR, Correia BE, Crowe JE Jr., Meiler J, Moretti R [“Modeling immunity with Rosetta: Methods for antibody and antigen design”](https://doi.org/10.1021/acs.biochem.0c00912) *Biochemistry* (Mar 2021) 
+
+2020:
+
 * **del Alamo D\***, Fischer AW\*, Moretti R, Alexander NS, Mendenhall J, Hyman NJ, Meiler J (\*equal contribution) [“Efficient sampling of protein loop regions using conformational hashing complemented with random coordinate descent”](https://doi.org/10.1021/acs.jctc.0c00836) *Journal of Chemical Theory and Computation* (Dec 2020)
 * Tessmer MH, DeCero SA, **del Alamo D**, Riegert MO, Meiler J, Feix JB [“Characterization of the ExoU activation mechanism using EPR and integrative modeling”](https://doi.org/10.1038/s41598-020-76023-3) *Scientific Reports* (Nov 2020)
 * **del Alamo D**, Tessmer MH, Stein RA, Feix JB, Mchaourab HS, Meiler J [“Rapid simulation of unprocessed DEER decay data for protein fold prediction”](https://doi.org/10.1016/j.bpj.2019.12.011) *Biophysical Journal* (Jan 2020) 
+
+Before 2020:
+
 * Crochiere ML, Baloglu E, Klebanov B, Donovan S, **del Alamo D**, Lee M, Kauffman M, Shacham S, Landesman Y [“A Method for quantification of Exportin-1 (XPO1) occupancy by Selective Inhibitor of Nuclear Export (SINE) compounds.”](https://www.oncotarget.com/article/6495/text/) *Oncotarget* (Dec 2015)
