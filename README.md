@@ -1,33 +1,42 @@
-# Diego del Alamo Ph.D.
+# Diego del Alamo, Ph.D.
 [Email](diego.delalamo@gmail.com) | [Github](www.github.com/delalamo)  
 Basel, BS, Switzerland
 
 I like to design synthetic biomacromolecules using AI/ML. My background is in experimental and computational protein biophysics.
 
 ## **Education**
+**Ph.D.**, Chemical and Physical Biology, Vanderbilt University (08/2015 - 08/2021)  
+Dissertation title: Integrative modeling of secondary active transporters
 
-| | |
-| :---| ---:|
-|**Ph.D.**, Chemical and Physical Biology (08/2015 - 08/2021)<br>Dissertation title: Integrative modeling of secondary active transporters<br> |**Vanderbilt University**<br>Nashville, TN, USA<br><br>|
-|**B.S.**, Biochemistry, Molecular, and Cell Biology (08/2008 - 05/2012)<br><br>| **University of New Hampshire**<br>Durham, NH, USA|
+**B.S.**, Biochemistry, Molecular, and Cell Biology, University of New Hampshire (08/2008 - 05/2012)
 
 ## **Work and Research Experience**
 
-| | |
-| :---| ---:|
-|**Investigator, Protein Design and Informatics** (05/2022 - Present)<br><li> Designed libraries of protein sequences for synthetic biology screens using custom-built AI/ML tools<br></li><li> Contributed to peer-reviewed publications describing the development and use of deep learning tools for protein design</li> | **GSK**<br>Baar, ZG, Switzerland<br><br><br><br>|
-|||
-|**Postdoctoral Researcher** (08/2021 - 04/2022)<br><li>Developed deep learning methods in PyTorch for interpreting noisy spectrocopy data </li><li>Developed and published methods to model protein conformational changes using AlphaFold2 and Rosetta</li>|**Vanderbilt University**<br>Nashville, TN, USA<br><br><br>|
-|**Graduate Student/Research Assistant** (08/2015 - 08/2021)<br><li>Designed and executed integrative experimental/computational structural studies of membrane proteins</li><li>Coauthored nine peer-reviewed publications in journals such as PNAS and eLife (see below)</li>||
-|||
-|**Senior Research Associate** (01/2014 - 05/2015)<br><li>Designed, implemented, and managed databases to track blood and plasma samples collected during Phase I and II clinical trials</li>|**Karyopharm Therapeutics**<br>Newton, MA, USA<br>|
-|**Research Associate** (07/2012 - 12/2013)<br><li>Tested small molecule inhibitors and identified the future clinical candidate Eltanexor</li>||
+**GSK**, Baar, ZG, Switzerland  
+*Investigator, Protein Design and Informatics* (05/2022 - Present)
+* Designed libraries of protein sequences for synthetic biology screens using custom-built AI/ML tools
+* Contributed to peer-reviewed publications describing the development and use of deep learning tools for protein design
+
+**Vanderbilt University**, Nashville, TN, USA  
+*Postdoctoral Researcher* (08/2021 - 04/2022)  
+* Developed deep learning methods in PyTorch for interpreting noisy spectrocopy data
+* Developed and published methods to model protein conformational changes using AlphaFold2 and Rosetta
+
+*Graduate Student/Research Assistant* (08/2015 - 08/2021)  
+* Designed and executed integrative experimental/computational structural studies of membrane proteins
+* Coauthored nine peer-reviewed publications in journals such as PNAS and eLife (see below)
+
+**Karyopharm Therapeutics**, Newton, MA, USA  
+*Senior Research Associate* (01/2014 - 05/2015)
+* Designed, implemented, and managed databases to track blood and plasma samples collected during Phase I and II clinical trials
+*Research Associate* (07/2012 - 12/2013)
+* Tested small molecule inhibitors and identified the future clinical candidate Eltanexor
 
 ## **Skills and Expertise**
 
 * **Structural biology:** Rosetta, AlphaFold, MOE, PyMOL, Chimera, some experience with Amber and VMD
-* **Programming skills:** Python (the scientific stack), R (ggplot2), C/C++, Bash and the command line
-* **Experimental skills:** Membrane protein purification, proteoliposome and nanodisc reconstitution, pulse and continuous-wave electron paramagnetic resonance spectroscopy
+* **Programming skills:** Python (NumPy, SciPy, PyTorch, Pandas, SciKit-Learn), R (ggplot2), C/C++, Bash and the Unix command line
+* **Experimental skills:** Membrane protein purification, proteoliposome and nanodisc reconstitution, pulse and continuous-wave electron paramagnetic resonance spectroscopy, radioligand transport assays
 
 ## **Publications**
 
