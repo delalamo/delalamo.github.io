@@ -1,5 +1,5 @@
 # Diego del Alamo, Ph.D.
-[Email](mailto:diego.delalamo@gmail.com) | [Github](https://www.github.com/delalamo)  
+[Email](mailto:diego.delalamo@gmail.com) | [Github](https://www.github.com/delalamo) | [LinkedIn](https://www.linkedin.com/in/ddelalamo/)  
 Basel, BS, Switzerland
 
 I like to design synthetic biomacromolecules using AI/ML. My background is in experimental and computational protein biophysics. Some of my spare time projects found can be found [here](https://www.instagram.com/diegodelalamo/).
