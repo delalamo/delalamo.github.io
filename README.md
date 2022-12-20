@@ -2,7 +2,7 @@
 [Email](mailto:diego.delalamo@gmail.com) | [Github](https://www.github.com/delalamo) | [LinkedIn](https://www.linkedin.com/in/ddelalamo/)  
 Basel, BS, Switzerland
 
-I like to design synthetic biomacromolecules using AI/ML. My background is in experimental and computational protein biophysics. Some of my spare time projects can be found [here](https://www.instagram.com/diegodelalamo/).
+I like to design synthetic biomacromolecules using AI/ML. My background is in experimental and computational protein biophysics.
 
 ## **Education**
 **Ph.D.**, Chemical and Physical Biology, Vanderbilt University (Aug 2015 - Aug 2021)  
@@ -96,3 +96,7 @@ Tessmer MH, DeCero SA, **del Alamo D**, Riegert MO, Meiler J, Feix JB
 [“A Method for quantification of Exportin-1 (XPO1) occupancy by Selective Inhibitor of Nuclear Export (SINE) compounds.”](https://www.oncotarget.com/article/6495/text/)  
 Crochiere ML, Baloglu E, Klebanov B, Donovan S, **del Alamo D**, Lee M, Kauffman M, Shacham S, Landesman Y  
 *Oncotarget* (Dec 2015)
+
+## **Miscellaneous**
+
+Some of my spare time projects can be found [here](https://www.instagram.com/diegodelalamo/).
