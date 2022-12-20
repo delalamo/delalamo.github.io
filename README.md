@@ -1,43 +1,134 @@
-# Diego del Alamo Ph.D.
-[Email](diego.delalamo@gmail.com) | [Github](www.github.com/delalamo)  
-Basel, BS, Switzerland
+<div align="center">
+  <br>
+  <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
+  <br>  
+  <p align="center">
+    <i>Support my work via <a href="https://paypal.me/AmitMerchant">Paypal</a></i>
+    •
+    <i>Would you be interested in <a href="https://www.producthunt.com/upcoming/reverie-pro">Reverie Pro</a>?</i>
+  </p>
+</div>
 
-I like to design synthetic biomacromolecules using AI/ML. My background is in experimental and computational protein biophysics.
+---
 
-## **Education**
-| | |
-| :---| ---:|
-|**Ph.D.**, Chemical and Physical Biology (08/2015 - 08/2021)<br>Dissertation title: Integrative modeling of secondary active transporters<br> |**Vanderbilt University**<br>Nashville, TN, USA<br><br>|
-|**B.S.**, Biochemistry, Molecular, and Cell Biology (08/2008 - 05/2012)<br><br>| **University of New Hampshire**<br>Durham, NH, USA|
+Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
 
-## **Work and Research Experience**
-| | |
-| :---| ---:|
-|**Investigator, Protein Design and Informatics** (05/2022 - Present)<br><li> Designed libraries of protein sequences for synthetic biology screens using custom-built AI/ML tools<br></li><li> Contributed to peer-reviewed publications describing the development and use of deep learning tools for protein design</li> | **GSK**<br>Baar, ZG, Switzerland<br><br><br><br>|
-|||
-|**Postdoctoral Researcher** (08/2021 - 04/2022)<br><li>Developed deep learning methods in PyTorch for interpreting noisy spectrocopy data </li><li>Developed and published methods to model protein conformational changes using AlphaFold2 and Rosetta</li>|**Vanderbilt University**<br>Nashville, TN, USA<br><br><br>|
-|**Graduate Student/Research Assistant** (08/2015 - 08/2021)<br><li>Designed and executed integrative experimental/computational structural studies of membrane proteins</li><li>Coauthored nine peer-reviewed publications in journals such as PNAS and eLife (see below)</li>||
-|||
-|**Senior Research Associate** (01/2014 - 05/2015)<br><li>Designed, implemented, and managed databases to track blood and plasma samples collected during Phase I and II clinical trials</li>|**Karyopharm Therapeutics**<br>Newton, MA, USA<br>|
-|**Research Associate** (07/2012 - 12/2013)<br><li>Tested small molecule inhibitors and identified the future clinical candidate Eltanexor</li>||
+> [Theme demo](https://reverie-jekyll.netlify.app/)
 
-## **Skills and Expertise**
+This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https://pages.github.com) (or [Cloudflare Pages](https://pages.cloudflare.com/) if you want to have your repository private) without even setting up a local environment.
 
-* **Structural biology:** Rosetta, AlphaFold, MOE, PyMOL, Chimera, some experience with Amber and VMD
-* **Programming skills:** Python (the scientific stack), R (ggplot2), C/C++, Bash and the command line
-* **Experimental skills:** Membrane protein purification, proteoliposome and nanodisc reconstitution, pulse and continuous-wave electron paramagnetic resonance spectroscopy
+![](/images/reverie-demo.png)
 
-## **Publications**
+|  Responsiveness            |  Search | Categories |
+|---------------------|----------------------|----------------------|
+|![Responsiveness](/images/mobile-demo.png) | ![search](/images/search.png) | ![categories](/images/categories.png) |
 
-* Jeliazkov JR, Shapovalov MV, **del Alamo D**, Sternke MC, Karpiak JD ["Agile Language Transformers for Recombinant Protein Expression Optimization"](https://www.mlsb.io/papers_2022/Agile_Language_Transformers_for_Recombinant_Protein_Expression_Optimization.pdf) *Neural Information Processing Systems (NeurIPS)* (December 2022)
-* **del Alamo D**, Meiler J, Mchaourab HS ["Principles of alternating access in LeuT-fold transporters: commonalities and divergences (Review)"](https://doi.org/10.1016/j.jmb.2022.167746) *Journal of Molecular Biology* (October 2022)
-* **del Alamo D**, DeSousa L, Nair RM, Rahman S, Meiler J, Mchaourab HS [“Integrated AlphaFold2 and DEER investigation of the conformational dynamics of a pH-dependent APC antiporter”](https://doi.org/10.1073/pnas.2206129119) *Proceedings to the National Academy of Sciences* (August 2022)
-* Sala D\*, **del Alamo D\***, Mchaourab HS, Meiler J (\*equal contribution) ["Modeling of protein conformational changes with Rosetta guided by limited experimental data"](https://doi.org/10.1016/j.str.2022.04.013) *Structure* (August 2022)
-* **del Alamo D\***, Sala D\*, Mchaourab HS, Meiler J (\*equal contribution) ["Sampling alternative conformational states of transporters and receptors with AlphaFold2"](https://doi.org/10.7554/eLife.75751) *eLife* (April 2022)
-* **del Alamo D**, Jagessar KL, Meiler J, Mchaourab HS [“Methodology for rigorous modeling of protein conformational changes by Rosetta using DEER distance restraints”](https://doi.org/10.1371/journal.pcbi.1009107) *Plos Computational Biology* (June 2021)
-* **del Alamo D**, Govaerts C, Mchaourab HS ["AlphaFold2 predicts the inward-facing conformation of the multidrug transporter LmrP"](https://doi.org/10.1002/prot.26138) *Proteins: Structure, Function, and Bioinformatics* (May 2021)
-* Schoeder CT, Schmitz S, Adolf-Bryfogle J, Sevy AM, Finn JA, Sauer MF, Bozhanova NG, Mueller BK, Sangha AK, Bonet J, Sheehan JH, Kuenze G, Marlow B, Smith ST, Woods H, Bender BJ, Martina CE, **del Alamo D**, Kodali P, Gulsevin A, Schief WR, Correia BE, Crowe JE Jr., Meiler J, Moretti R [“Modeling immunity with Rosetta: Methods for antibody and antigen design”](https://doi.org/10.1021/acs.biochem.0c00912) *Biochemistry* (March 2021) 
-* **del Alamo D\***, Fischer AW\*, Moretti R, Alexander NS, Mendenhall J, Hyman NJ, Meiler J (\*equal contribution) [“Efficient sampling of protein loop regions using conformational hashing complemented with random coordinate descent”](https://doi.org/10.1021/acs.jctc.0c00836) *Journal of Chemical Theory and Computation* (December 2020)
-* Tessmer MH, DeCero SA, **del Alamo D**, Riegert MO, Meiler J, Feix JB [“Characterization of the ExoU activation mechanism using EPR and integrative modeling”](https://doi.org/10.1038/s41598-020-76023-3) *Scientific Reports* (November 2020)
-* **del Alamo D**, Tessmer MH, Stein RA, Feix JB, Mchaourab HS, Meiler J [“Rapid simulation of unprocessed DEER decay data for protein fold prediction”](https://doi.org/10.1016/j.bpj.2019.12.011) *Biophysical Journal* (January 2020) 
-* Crochiere ML, Baloglu E, Klebanov B, Donovan S, **del Alamo D**, Lee M, Kauffman M, Shacham S, Landesman Y [“A Method for quantification of Exportin-1 (XPO1) occupancy by Selective Inhibitor of Nuclear Export (SINE) compounds.”](https://www.oncotarget.com/article/6495/text/) *Oncotarget* (December 2015)
+# Table of Contents
+  - [Features overview](#features-overview)
+  - [Using Reverie on GitHub Pages](#using-reverie-on-github-pages)
+    - [1. Fork Reverie to your User Repository](#1-fork-reverie-to-your-user-repository)
+    - [2. Customize and view your site](#2-customize-and-view-your-site)
+    - [3. Publish your first blog post](#3-publish-your-first-blog-post)
+  - [Using Categories in Reverie](#using-categories-in-reverie)
+  - [Pagination](#pagination)
+  - [RSS](#rss)
+  - [Sitemap](#sitemap)
+  - [Emailware](#emailware)
+  - [The name?](#the-name)
+  - [License](#license)
+
+## Features overview
+
+- Clean and minimal design
+- Single column post layout
+- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
+- Fully responsive and mobile optimized theme
+- Sass/Coffeescript support using Jekyll 2.0
+- Free hosting on your GitHub Pages user site
+- All the SEO goodies come built-in
+- Markdown blogging
+- Supports [Pullquotes](https://reverie-jekyll.netlify.app/pullquotes/)
+- Syntax highlighting using Pygments
+    - [Dracula syntax theme](https://draculatheme.com/) included
+- Disqus commenting
+- Social media icons
+- Google Analytics integration
+- Supports [Google Analytics 4](https://support.google.com/analytics/answer/10089681?hl=en)
+- Fuzzy search across blog posts
+- Blog with pagination
+- Categorize posts out-of-the box
+- RSS Feed
+- Built-in sitemap
+
+> <p><i>Like this theme?</i> If so, consider donating a small amount that will help my maintaining this project further.<p>
+> You can support me via <a href="https://paypal.me/AmitMerchant">Paypal</a>.
+
+## Using Reverie on GitHub Pages
+
+Setting up Reverie on GitHub Pages is as simple as it gets!
+
+### 1. Fork Reverie to your User Repository
+
+Fork this repository, then rename the repository to `yourgithubusername.github.io`.
+
+Alternatively, you can click the [`Use this template`](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+
+Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2).
+
+### 2. Customize and view your site
+
+Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
+
+Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with Jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
+
+### 3. Publish your first blog post
+
+Delete all files from `_posts`directory and create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
+
+> You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
+
+## Using Categories in Reverie
+
+You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
+
+For adding single category:
+
+```md
+categories: JavaScript
+```
+
+For adding multiple categories:
+
+```md
+categories: [PHP, Laravel]
+```
+
+The categorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
+
+## Pagination
+
+Pagination of posts in Reverie works out-of-the-box. You only need to specify the number of posts you want on a single page in `_config.yml` and Reverie will take care of the rest.
+
+```yml
+paginate: 6
+```
+
+## RSS
+
+Reverie comes with a [RSS feed](https://en.wikipedia.org/wiki/RSS) in-built. The generated RSS Feed of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://reverie-jekyll.netlify.app/feed.xml).
+
+## Sitemap
+
+The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap.xml>. You can see the example sitemap feed over [here](https://reverie-jekyll.netlify.app/sitemap.xml).
+
+## Emailware
+Reverie is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this theme or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+
+## The name?
+
+reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><sup>/ˈrɛv(ə)ri/</sup> 
+
+
+## License
+
+MIT
