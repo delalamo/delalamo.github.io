@@ -14,7 +14,7 @@ Dissertation title: Integrative modeling of secondary active transporters
 
 **GSK**, Baar, ZG, Switzerland  
 *Investigator, Protein Design and Informatics* (May 2022 - Present)
-* Designed libraries of protein sequences for synthetic biology screens using custom-built AI/ML tools
+* Designed libraries of enzyme and antibody sequences using custom-built AI/ML tools
 * Contributed to peer-reviewed publications describing the development and use of deep learning tools for protein design
 
 **Vanderbilt University**, Nashville, TN, USA  
@@ -40,6 +40,12 @@ Dissertation title: Integrative modeling of secondary active transporters
 * **Experimental skills:** Membrane protein purification, proteoliposome and nanodisc reconstitution, pulse and continuous-wave electron paramagnetic resonance spectroscopy, radioligand transport assays
 
 ## **Publications**
+
+#### 2023
+
+["ESMFold Hallucinates Native-Like Protein Sequences"](https://www.biorxiv.org/content/10.1101/2023.05.23.541774v1)  
+Jeliazkov JR, **del Alamo D**, Karpiak JD  
+*Submitted* (May 2023)  
 
 #### 2022
 
