@@ -41,6 +41,8 @@ Dissertation title: Integrative modeling of secondary active transporters
 
 ## **Publications**
 
+A complete list of publications and citation counts may be found [here](https://scholar.google.com/citations?user=uEf3WE4AAAAJ).
+
 #### 2023
 
 ["ESMFold Hallucinates Native-Like Protein Sequences"](https://www.biorxiv.org/content/10.1101/2023.05.23.541774v1)  
@@ -105,4 +107,4 @@ Crochiere ML, Baloglu E, Klebanov B, Donovan S, **del Alamo D**, Lee M, Kauffman
 
 ## **Miscellaneous**
 
-Some of my spare time projects can be found [here](https://www.instagram.com/diegodelalamo/).
+I speak fluent English and French and am catching up on my Spanish. Some of my spare time projects can be found [here](https://www.instagram.com/diegodelalamo/).
