@@ -1,0 +1,1 @@
+Hello! This repo hosts code for my personal website. The template is more or less entirely based on code from [Kasper](https://github.com/rosario/kasper), which is itself a fork of Ghost's default theme [Casper](https://github.com/tryghost/casper). I've taken all the RSS feed code out, as well as some dated elements like "share to Google Plus".
