@@ -70,13 +70,13 @@ Cell: +1 (617) 869 2425
 *   Proofread patents for small molecules, verified that reported values and structures matched internal data
 
 ## Education
-**Ph.D. - Vanderbilt University (Nashville, TN, USA)**
+### Ph.D. - Vanderbilt University (Nashville, TN, USA)
 
 Chemical and Physical Biology Program (Aug 2015 - Aug 2021)
 
 **Dissertation title:** [Integrative modeling of secondary active transporters](https://ir.vanderbilt.edu/handle/1803/16929)
 
-**B.S. - University of New Hampshire (Durham, NH, USA)**
+### B.S. - University of New Hampshire (Durham, NH, USA)
 
 **Major:** Biochemistry, Molecular Biology and Cell Biology (Aug 2008 - May 2012)
 
