@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Diego del Alamo, PhD
+description: Personal website
+meta_description: "Diego del Alamo's personal website"
 
 markdown: kramdown
 highlighter: rouge
