@@ -11,8 +11,13 @@ Cell: +1 (617) 869 2425
 
 [Email](mailto:diego.delalamo@gmail.com), [Github](https://www.github.com/delalamo), [LinkedIn](https://www.linkedin.com/in/ddelalamo/), [Google Scholar](https://scholar.google.com/citations?user=uEf3WE4AAAAJ), [Bluesky](https://bsky.app/profile/ddelalamo.bsky.social)
 
+* [Skills and expertise](#skills-and-expertise)
+* [Work and Research Experience](#work-and-research-experience)
+* [Education](#education)
+* [Preprints and Publications](#preprints-and-publications)
+* [Side projects](#side-projects)
 
-## Skills & expertise
+## Skills and expertise
 
 **Computational structural biology**
 
@@ -42,7 +47,7 @@ Cell: +1 (617) 869 2425
 
 *   Experience making high-quality publication-ready figures with Inkscape, GIMP, PyMOL. Comfortable with LaTeX
 
-## Work & Research Experience
+## Work and Research Experience
 
 **GSK (Baar, ZG, Switzerland)**
 
@@ -96,7 +101,7 @@ Chemical and Physical Biology Program (Aug 2015 - Aug 2021)
 
 **Minor:** Genetics
 
-## Preprints & Publications
+## Preprints and Publications
 
 **2024**
 
