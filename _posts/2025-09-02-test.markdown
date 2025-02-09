@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Test post"
-date:   2025-9-2 10:18:00
-categories: N/A
----
-
-A test post for this Jekyll theme.

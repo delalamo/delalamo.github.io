@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Test post, please ignore."
+date:   2025-2-9 00:00:00
+categories: Thriller Comedy Horror
+---
+
+This is a test post to determine if this site is working as intended. Please ignore it and [check out my CV](/about.html) instead.
