@@ -53,6 +53,7 @@ Cell: +1 (617) 869 2425
 *   Initiated and led a multi-departmental project focused on designing and testing transformer- and CNN-based AI/ML methods for processing electron paramagnetic resonance spectroscopy data
 *   Identified, developed, and published methods to model conformational changes in membrane proteins, such as transporters and G-protein coupled receptors, using AlphaFold2 and Rosetta
 *   Concluded my PhD research work (see below)
+
 **Graduate Student/Research Assistant (Aug 2015 - Aug 2021)**
 *   My PhD research work focused on the experimental and computational characterization of the membrane transporter GadC. This interdisciplinary project involved a combination of spectroscopy measurements, activity assays, and integrative modeling using experimental data as geometric restraints.
 *   Supervised and mentored one undergraduate, one Master's student, one research assistant, and two Ph.D. rotation students
