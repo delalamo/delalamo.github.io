@@ -22,12 +22,13 @@ Cell: +1 (617) 869 2425
 *   Extensive experience with Rosetta, AlphaFold2, and ESMFold, including introducing source code modifications for protein and antibody design
 *   Some experience with small molecule modeling (MOE), MD simulations (Amber, GROMACS, and Desmond), and free energy perturbation (Schrödinger Maestro)
 
-**Bioinformatics, deep learning, and pipelining**
+**Bioinformatics and deep learning**
 *   Proficient in sequence and structural search (BLAST, Hmmer, Foldseek), alignment (Clustal, MUSCLE, TM-Align), and clustering (MMSeqs, CPPTraj)
 *   Some experience with training, fine-tuning, and transfer learning of protein language models (ESM, Progen) and inverse folding models (ProteinMPNN) for predictive modeling of stability, fitness, and other properties
 
-**DevOps and pipelining skills**
-*   Some experience building Docker containers and Nextflow pipelines
+**DevOps, cloud computing, and pipelining**
+*   Some experience building containerization (Docker, Singularity/Apptainer) and Nextflow pipelines
+*   Some experience with Heroku, Azure, and GCP
 
 **Programming skills**
 *   Comfortable with Python (NumPy, PyTorch, Pandas, SciKit-Learn, BioPython), R (ggplot2), Bash and the Unix command line
@@ -42,24 +43,31 @@ Cell: +1 (617) 869 2425
 ## Work and Research Experience
 ### GSK (Baar, ZG, Switzerland)
 **Investigator - Protein Design & Informatics (May 2022 - Present)**
-*   My primary responsibilities involve the rational design and multi-parameter optimization of antibodies and other proteins using a combination of sequence- and structure-based modeling tools. As part of this role I interface with experimental groups to build upon previous-round datasets under both data-poor and data-rich conditions
-*   Antibody engineering: applying a combination of physics-based methods, simple predictive models, and AI/ML tools for various engineering challenges such as de-risking of immunogenicity, solubility, specificity, thermostability, expression, and patent infringement
-*   Enzyme engineering: identifying starting points for directed evolution campaigns using bioinformatics search tools, structural modeling, and ligand-binding pocket featurization
-*   Writing and distributing Python scripts across GSK R&D for molecular modeling and analysis, including rapid retrieval from the AlphaFold2 database of 200 million protein models, in silico linker screening and ranking, and modeling of alternate conformational states of diverse proteins such as viral fusion proteins
+
+*My primary responsibilities involve the rational design and multi-parameter optimization of antibodies and other proteins using a combination of sequence- and structure-based modeling tools. As part of this role I interface with experimental groups to build upon previous-round datasets under both data-poor and data-rich conditions*
+*   Antibody engineering: applying a combination of physics-based methods (**Schrödinger FEP**, **Rosetta**), fine-tuned predictive models (developed using **PyTorch** and **SciKit-Learn**), and AI/ML tools (such as **ESM**, **ProteinMPNN**, **ProGen**, and others) for various engineering challenges such as de-risking of immunogenicity, solubility, specificity, thermostability, expression, and patent infringement
+*   Enzyme engineering: identifying starting points for directed evolution campaigns using bioinformatics search tools (**MMSeqs**), structural modeling (**ESMFold**, **AlphaFold**, **Rosetta**), and ligand-binding pocket featurization (**MOE**)
+*   Writing and distributing Python scripts across GSK R&D for molecular modeling and analysis, including rapid retrieval from public databases of millions of protein models, *in silico* linker screening and ranking, and modeling of alternate conformational states of diverse proteins such as viral fusion proteins
+*   Developed and deployed reproducible pipelines with **Singularity** and **Nextflow**
 *   Preparing manuscripts for publication, and presenting findings at scientific conferences
 
 ### Vanderbilt University (Nashville, TN, USA)
+
 **Postdoctoral Researcher (Aug 2021 - Apr 2022)**
-*   Initiated and led a multi-departmental project focused on designing and testing transformer- and CNN-based AI/ML methods for processing electron paramagnetic resonance spectroscopy data
-*   Identified, developed, and published methods to model conformational changes in membrane proteins, such as transporters and G-protein coupled receptors, using AlphaFold2 and Rosetta
+
+*   Initiated and led a multi-departmental project focused on designing and testing transformer- and CNN-based AI/ML methods (developed in **PyTorch** and **Jax**) for processing electron paramagnetic resonance spectroscopy data
+*   Identified, developed, and published methods to model conformational changes in membrane proteins, such as transporters and G-protein coupled receptors, using **AlphaFold2** and **Rosetta**
 *   Concluded my PhD research work (see below)
+
 **Graduate Student/Research Assistant (Aug 2015 - Aug 2021)**
-*   My PhD research work focused on the experimental and computational characterization of the membrane transporter GadC. This interdisciplinary project involved a combination of spectroscopy measurements, activity assays, and integrative modeling using experimental data as geometric restraints.
+
+*My PhD research work focused on the experimental and computational characterization of the membrane transporter GadC. This interdisciplinary project involved a combination of spectroscopy measurements, activity assays, and integrative modeling using experimental data as geometric restraints*
 *   Supervised and mentored one undergraduate, one Master's student, one research assistant, and two Ph.D. rotation students
 *   Taught and co-hosted twelve interactive in-person and remote workshops and courses
 *   Coauthored ten peer-reviewed publications and presented research at four international conferences
 
 ### Karyopharm Therapeutics (Newton, MA, USA)
+
 **Senior Research Associate (Jan 2014 - May 2015)**
 *   Tested small molecule inhibitors of XPO1 using cell-based assays and identified the future clinical candidate Eltanexor
 *   Maintained cell culture stocks of human and mammalian cells
@@ -124,6 +132,6 @@ Chemical and Physical Biology Program (Aug 2015 - Aug 2021)
 
 ## Side projects
 
-*   **[PubMedBERT literature fetcher](https://github.com/delalamo/PubMedFetcher):** A cloud-based app that emails me papers I might find interesting on a daily basis. It is hosted on Heroku and 1) scrapes biorxiv, arxiv, and PubMED for new submissions each morning, 2) uses large language models to embed their abstracts, and 3) calculates relevance using a custom-trained regression model. I receive an e-mail every weekday morning at 8AM GMT with the results.
+*   **[PubMedBERT literature fetcher](https://github.com/delalamo/PubMedFetcher):** A cloud-based app that emails me papers I might find interesting on a daily basis. It is hosted on **Heroku** and 1) scrapes biorxiv, arxiv, and PubMED for new submissions each morning, 2) embeds their abstracts using large language models (via the **OpenAI** API), and 3) calculates relevance using a custom-trained regression model (**SciKit-Learn**). I receive an e-mail every weekday morning at 5AM GMT with the results.
 
 *   **[Protein structural modelling and design Zettelkasten](https://publish.obsidian.md/ddelalamo/Sorted_notes/Protein+structural+modeling+and+design+Zettelkasten):** A wiki I run that sorts and summarizes information from over 500 recent protein design and modelling papers.
