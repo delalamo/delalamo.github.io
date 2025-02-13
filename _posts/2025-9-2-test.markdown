@@ -8,12 +8,12 @@ Four years after the protein folding problem was allegedly solved, we still can'
 
 Nanobodies are single-domain antibodies used as clinical therapeutics and experimental reagents for tasks such as bulking up protein structures for cryo-EM [1]. Despite their smaller size, they share the same difficulties as traditional antibodies when it comes to structure prediction, namely the inability to reliably predict how and where they bind their targets, with success rates ranging in the 33-50% range [2, 3]. A report published last week [4] identifies a major determinant of whether the binding mode is correctly predicted: the "kink" or bend found in many CDR3 loops that is also found in most human antibodies [5]. The recent structure prediction tool AlphaFold3 correctly docked nanobodies to their antigens nearly 80% of the time when the CDR3 conformation was extended, but barely 25% of the time when it was kinked.
 
-![Kinked CDR3 loops are more difficult to predict than extended loops]({{ site.baseurl }}/_assets/2025_09_02_A.png)
+![Kinked CDR3 loops are more difficult to predict than extended loops](/delalamo.github.io/assets/post_images/2025_09_02/2025_09_02_A.png)
 *Figure from [4]*
 
 Fortunately, these models were effective at predicting whether the kink was there or not. 
 
-![CDR3 conformation is mostly correctly predicted by AlphaFold2 and AlphaFold3]({{ site.baseurl }}/_assets/2025_09_02_B.png)
+![CDR3 conformation is mostly correctly predicted by AlphaFold2 and AlphaFold3](/delalamo.github.io/assets/post_images/2025_09_02/2025_09_02_B.png)
 *Figure from [4]*
 
 In any case, whether that observation extends to human paired antibodies, the structures of which are more difficult to predict, remains to be seen.
