@@ -91,14 +91,17 @@ Chemical and Physical Biology Program (Aug 2015 - Aug 2021)
 **Minor:** Genetics
 
 ## Preprints and Publications
+
 **2024**
 *   "[Artificial intelligence drives the digital transformation of pharma (Perspective)](https://www.sciencedirect.com/science/article/abs/pii/B9780443156885000498)"
     Harrer S, Menard J, Rivers M, Green DVS, Karpiak J, Jeliazko JR, Shapovalov MS, **del Alamo D**, Sternke MC. *Artificial Intelligence in Clinical Practice*, Jan 2024
+
 **2023**
 *   "[Conformational sampling and interpolation using language-based protein folding neural networks](https://www.mlsb.io/papers_2023/Conformational_sampling_and_interpolation_using_language-based_protein_folding_neural_networks.pdf)"
     **del Alamo D**, Jeliazkov JR, Truan D, Karpiak JD. *Machine Learning for Structural Biology Workshop, NeurIPS*, Dec 2023
 *   "[ESMFold hallucinates native-like proteins](https://www.biorxiv.org/content/10.1101/2023.05.23.541774v1)"
     Jeliazkov JR, **del Alamo D**, Karpiak JD. *Machine Learning for Structural Biology Workshop, NeurIPS*, Dec 2023
+
 **2022**
 *   “[Agile language transformers for recombinant protein expression optimization](https://www.mlsb.io/papers_2022/Agile_Language_Transformers_for_Recombinant_Protein_Expression_Optimization.pdf)”
     Jeliazkov JR, Shapovalov MV, **del Alamo D**, Sternke MC, Karpiak JD. *Machine Learning for Structural Biology Workshop, NeurIPS*, Dec 2022
@@ -110,6 +113,7 @@ Chemical and Physical Biology Program (Aug 2015 - Aug 2021)
     Sala D*, **del Alamo D***, Mchaourab HS, Meiler J (*equal contribution). *Structure*, Aug 2022
 *   “[Sampling alternative conformational states of transporters and receptors with AlphaFold2](https://doi.org/10.7554/eLife.75751)”
     **del Alamo D***, Sala D*, Mchaourab HS, Meiler J (*equal contribution). *eLife*, Apr 2022 ([GitHub repository](https://github.com/delalamo/af2_conformations))
+
 **2021**
 *   “[Methodology for rigorous modeling of protein conformational changes by Rosetta using DEER distance restraints](https://doi.org/10.1371/journal.pcbi.1009107)”
     **del Alamo D**, Jagessar KL, Mchaourab HS, Meiler J. *Plos Computational Biology*, Jun 2021
