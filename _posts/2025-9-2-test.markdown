@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nanobody CDR3 structure prediction."
+title:  "Nanobody CDR3 structure prediction"
 date:   2025-2-13 2:27:00
 categories: Zettelkasten
 ---
@@ -16,10 +16,11 @@ Fortunately, these models were effective at predicting whether the kink was ther
 ![CDR3 conformation is mostly correctly predicted by AlphaFold2 and AlphaFold3](/assets/post_images/2025_09_02/2025_09_02_B.png)
 *Figure from [4]*
 
-In any case, whether that observation extends to human paired antibodies, the structures of which are more difficult to predict, remains to be seen.
+In any case, whether that observation extends to human paired antibodies, the structures of which are more difficult to predict [6], remains to be seen.
 
 1. Wu, Xudong. ["Nanobody-assisted cryoEM structural determination for challenging proteins"](doi.org/10.1016/j.tibs.2024.06.002) Trends in Biochemical Sciences 2024
 2. Abramson, Josh, et al. ["Accurate structure prediction of biomolecular interactions with AlphaFold3"](doi.org/10.1038/s41586-024-07487-w) Nature 2024
 3. Hitawala, Fatima N. and Gray, Jeffrey J. ["What has AlphaFold3 learned about antibody and nanobody docking, and what remains unsolved?"](doi.org/10.1101/2024.09.21.614257) Biorxiv 2024
 4. Eshak, Floriane and Goupil-Lamy, Anne. ["Advancements in nanobody epitope prediction: A comparative study of AlphaFold2Multimer vs AlphaFold3"](doi.org/10.1021/acs.jcim.4c01877) JCIM 2025
 5. Weitzner, Brian D. and Dunbrack, Roland L. and Gray, Jeffrey J. ["The origin of CDR H3 structural diversity"](doi.org/10.1016/j.str.2014.11.010) Structure 2015
+6. Greenshields-Watson, et al. ["Challenges and compromises: Predicting unbound antibody structures with deep learning"](doi.org/10.1016/j.sbi.2025.102983) Current Opinion in Structural Biology 2025
