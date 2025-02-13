@@ -14,6 +14,7 @@ Cell: +1 (617) 869 2425
 * [Work and Research Experience](#work-and-research-experience)
 * [Education](#education)
 * [Preprints and Publications](#preprints-and-publications)
+* [Presentations and Invited Talks](#presentations-and-invited-talks)
 * [Side projects](#side-projects)
 
 ## Skills and expertise
@@ -133,6 +134,21 @@ Chemical and Physical Biology Program (Aug 2015 - Aug 2021)
 **Before 2020**
 *   “[A Method for quantification of Exportin-1 (XPO1) occupancy by Selective Inhibitor of Nuclear Export (SINE) compounds.](https://www.oncotarget.com/article/6495/text/)”
     Crochiere ML, Baloglu E, Klebanov B, Donovan S, **del Alamo D**, Lee M, Kauffman M, Shacham S, Landesman Y. *Oncotarget*, Dec 2015
+
+## Presentations and Invited Talks
+
+**2024**
+*    "[Antibody CDR design by ensembling inverse folding with protein language models](https://cdn-api.swapcard.com/public/files/caa2cb897fb3417c8ebb6aa210abf28d.pdf)" Poster presentation at PEGS Summit, Boston, MA, USA, 13-17 May 2024
+
+**2023**
+*    "Integrative modeling of the secondary active transporter GadC" Invited talk at the KTH Royal Institute of Technology in Stockholm, Sweden, 9 March 2023
+
+**2022**
+*    "Modeling alternative conformations with AlphaFold2" Oral presentation at the "Applications of AlphaFold" industry conference hosted by the European Molecular Biology Laboratory in Hinxton, UK, 8 November 2022
+
+**Before 2022**
+*    “Making the most of sparse data: modeling a bacterial transporter using double electron-electron resonance spectroscopy data” Invited talk at Leipzig University in Leipzig, DE, 22 September 2020
+*    “Protein fold prediction using simulated double electron-electron resonance distance distributions and decay traces” Oral presentation at RosettaCon in Ft. Leavenworth, WA, USA, 7 August 2019
 
 ## Side projects
 
