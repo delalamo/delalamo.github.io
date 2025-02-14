@@ -14,6 +14,7 @@ Cell: +1 (617) 869 2425
 * [Work and Research Experience](#work-and-research-experience)
 * [Education](#education)
 * [Preprints and Publications](#preprints-and-publications)
+* [Presentations and Invited Talks](#presentations-and-invited-talks)
 * [Side projects](#side-projects)
 
 ## Skills and expertise
@@ -91,14 +92,17 @@ Chemical and Physical Biology Program (Aug 2015 - Aug 2021)
 **Minor:** Genetics
 
 ## Preprints and Publications
+
 **2024**
 *   "[Artificial intelligence drives the digital transformation of pharma (Perspective)](https://www.sciencedirect.com/science/article/abs/pii/B9780443156885000498)"
     Harrer S, Menard J, Rivers M, Green DVS, Karpiak J, Jeliazko JR, Shapovalov MS, **del Alamo D**, Sternke MC. *Artificial Intelligence in Clinical Practice*, Jan 2024
+
 **2023**
 *   "[Conformational sampling and interpolation using language-based protein folding neural networks](https://www.mlsb.io/papers_2023/Conformational_sampling_and_interpolation_using_language-based_protein_folding_neural_networks.pdf)"
     **del Alamo D**, Jeliazkov JR, Truan D, Karpiak JD. *Machine Learning for Structural Biology Workshop, NeurIPS*, Dec 2023
 *   "[ESMFold hallucinates native-like proteins](https://www.biorxiv.org/content/10.1101/2023.05.23.541774v1)"
     Jeliazkov JR, **del Alamo D**, Karpiak JD. *Machine Learning for Structural Biology Workshop, NeurIPS*, Dec 2023
+
 **2022**
 *   “[Agile language transformers for recombinant protein expression optimization](https://www.mlsb.io/papers_2022/Agile_Language_Transformers_for_Recombinant_Protein_Expression_Optimization.pdf)”
     Jeliazkov JR, Shapovalov MV, **del Alamo D**, Sternke MC, Karpiak JD. *Machine Learning for Structural Biology Workshop, NeurIPS*, Dec 2022
@@ -110,6 +114,7 @@ Chemical and Physical Biology Program (Aug 2015 - Aug 2021)
     Sala D*, **del Alamo D***, Mchaourab HS, Meiler J (*equal contribution). *Structure*, Aug 2022
 *   “[Sampling alternative conformational states of transporters and receptors with AlphaFold2](https://doi.org/10.7554/eLife.75751)”
     **del Alamo D***, Sala D*, Mchaourab HS, Meiler J (*equal contribution). *eLife*, Apr 2022 ([GitHub repository](https://github.com/delalamo/af2_conformations))
+
 **2021**
 *   “[Methodology for rigorous modeling of protein conformational changes by Rosetta using DEER distance restraints](https://doi.org/10.1371/journal.pcbi.1009107)”
     **del Alamo D**, Jagessar KL, Mchaourab HS, Meiler J. *Plos Computational Biology*, Jun 2021
@@ -129,6 +134,21 @@ Chemical and Physical Biology Program (Aug 2015 - Aug 2021)
 **Before 2020**
 *   “[A Method for quantification of Exportin-1 (XPO1) occupancy by Selective Inhibitor of Nuclear Export (SINE) compounds.](https://www.oncotarget.com/article/6495/text/)”
     Crochiere ML, Baloglu E, Klebanov B, Donovan S, **del Alamo D**, Lee M, Kauffman M, Shacham S, Landesman Y. *Oncotarget*, Dec 2015
+
+## Presentations and Invited Talks
+
+**2024**
+*    "[Antibody CDR design by ensembling inverse folding with protein language models](https://cdn-api.swapcard.com/public/files/caa2cb897fb3417c8ebb6aa210abf28d.pdf)" Poster presentation at PEGS Summit, Boston, MA, USA, 13-17 May 2024
+
+**2023**
+*    "Integrative modeling of the secondary active transporter GadC" Invited talk at the KTH Royal Institute of Technology in Stockholm, Sweden, 9 March 2023
+
+**2022**
+*    "Modeling alternative conformations with AlphaFold2" Oral presentation at the "Applications of AlphaFold" industry conference hosted by the European Molecular Biology Laboratory in Hinxton, UK, 8 November 2022
+
+**Before 2022**
+*    “Making the most of sparse data: modeling a bacterial transporter using double electron-electron resonance spectroscopy data” Invited talk at Leipzig University in Leipzig, DE, 22 September 2020
+*    “Protein fold prediction using simulated double electron-electron resonance distance distributions and decay traces” Oral presentation at RosettaCon in Ft. Leavenworth, WA, USA, 7 August 2019
 
 ## Side projects
 
