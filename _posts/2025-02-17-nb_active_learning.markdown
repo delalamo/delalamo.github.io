@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Estimating an antibody's conformational landscapes using inverse folding"
+title:  "Estimating an antibody's conformational landscape using inverse folding"
 date:   2025-02-17 2:19:00
 categories: [Zettelkasten]
 ---
