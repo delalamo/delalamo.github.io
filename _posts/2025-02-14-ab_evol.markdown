@@ -16,4 +16,4 @@ Antibodies evolve differently from most proteins. Instead of maintaining functio
 
 Incidentally, this is the first time I used an LLM to find a paper - I asked Gemini to find a citation for the claim that germline antibodies can already have nanomolar binding affinity to their targets, and it replied with this paper.
 
-1. Kirby et al. ["Retrospective SARS-CoV-2 human antibody development trajectories are largely sparse and permissive"](doi.org/10.1073/pnas.2412787122) PNAS 2024
+1. Kirby et al. ["Retrospective SARS-CoV-2 human antibody development trajectories are largely sparse and permissive"](doi.org/10.1073/pnas.2412787122) PNAS 2025
