@@ -29,6 +29,6 @@ The rest of the preprint is short on details, and its main text is only three pa
 1. Verkuil et al. ["Language models generalize beyond natural proteins"](doi.org/10.1101/2022.12.21.521521) biorxiv 2022
 2. Nijkamp et al. ["Progen2: Exploring the boundaries of protein language models"](doi.org/10.1016/j.cels.2023.10.002) Cell Systems 2023 
 3. Brotzakis et al. ["Design of Protein Sequences with Precisely Tuned Kinetic Properties"](doi.org/10.1101/2025.02.13.638027) biorxiv 2025
-4. Dauparas et al. ["Robust deep learning-based protein sequence design using ProteinMPNN"](doi.org/10.1126/science.add2187) Science 2023
+4. Dauparas et al. ["Robust deep learning-based protein sequence design using ProteinMPNN"](doi.org/10.1126/science.add2187) Science 2022
 5. Shuai et al. ["IgLM: Infilling language modeling for antibody sequence design"](doi.org/10.1016/j.cels.2023.10.001) Cell Systems 2023
 6. Fernandez-Quintero et al. ["Challenges in antibody structure prediction"](doi.org/10.1080/19420862.2023.2175319) mAbs 2022
