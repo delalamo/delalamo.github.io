@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Structural adaptors for protein property prediction"
-date:   2025-02-17 2:19:00
+date:   2025-02-20 2:21:00
 categories: [Zettelkasten]
 ---
 It's always tricky to choose which protein neural network to use for fine-tuning tasks.
