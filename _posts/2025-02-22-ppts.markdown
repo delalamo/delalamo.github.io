@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What's missing from advice about scientific note-taking"
-date:   2025-02-22 25:20:00
+date:   2025-02-22 2:25:00
 categories: [Metanotes]
 ---
 The book ["Digital Zettelkasten: Principles, Methods, & Examples" by David Kadavy](https://bookshop.org/p/books/digital-zettelkasten-principles-methods-examples-david-kadavy/17166162) walks through note-taking schemes for nonfiction writers, including scientists and academics. Missing from the book is any discussion of the huge advantages his systems has on the ultimate scientific time sink.
