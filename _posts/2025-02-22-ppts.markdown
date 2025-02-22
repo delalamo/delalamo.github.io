@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "What's missing from advice about scientific note-taking"
+date:   2025-02-22 25:20:00
+categories: [Science notes]
+---
+The book ["Digital Zettelkasten: Principles, Methods, & Examples" by David Kadavy](https://bookshop.org/p/books/digital-zettelkasten-principles-methods-examples-david-kadavy/17166162) walks through note-taking schemes for nonfiction writers, including scientists and academics. Missing from the book is any discussion of the huge advantages his systems has on the ultimate scientific time sink.
+
+I'm talking of course about Microsoft PowerPoint.
+
+I'll probably elaborate about this at a later point in another post with more details. But throughout graduate school, and in pharma since, the destination for most of my knowledge has not been the scientific literature I author but in slideshows prepared in Microsoft Powerpoint. The retrieval of figures and attempts to remember who said what when assembling slides for lab meetings, internal and external conferences, and miscellaneous seminars that came up on short notice, was a waste of time that could have been entirely avoided with better organization and knowledge management.
+
+Since grad school I've adopted many of the ideas proposed (but not invented) by Kadavy. Namely, atomization of knowledge into individual notes that are linked to one another to facilitate organic rediscovery. An idea gets its own note. An experimental result gets its own note. An ongoing controversy gets its own note. In effect, each note is like a micro-review on an extremely specific subject. You can find the system I maintain [here](https://publish.obsidian.md/ddelalamo/Sorted_notes/Protein+structural+modeling+and+design+Zettelkasten) and detailed examples of these kinds of notes [here](https://publish.obsidian.md/ddelalamo/Sorted_notes/Public/Protein_design/Not+all+sequences+with+improved+activity+have+plausible+evolutionary+paths+via+stepwise+introduction+of+mutations) and [here](https://publish.obsidian.md/ddelalamo/Sorted_notes/Public/Protein_design/Protein+property+prediction+using+PLMs+does+not+benefit+from+scale+except+when+predicting+structural+features). By far the biggest time savings came in how effortlessly it made the assembly of huge amounts of relevant information for PowerPoint. It's an incredibly unsexy application of this method for organizing knowledge, but we take for granted how much we can learn from a well-polished presentation, and thus owe it to ourselves to do as much as we can to make our talks as effective as possible.

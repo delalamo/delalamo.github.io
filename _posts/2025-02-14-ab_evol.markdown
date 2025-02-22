@@ -2,7 +2,7 @@
 layout: post
 title:  "Observations on how antibodies evolve"
 date:   2025-02-14 2:55:00
-categories: [Zettelkasten]
+categories: [Science notes]
 ---
 A recent study on anti-SARS-CoV-2 antibodies retraces the steps they take during affinity maturation.
 
