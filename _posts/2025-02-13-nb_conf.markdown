@@ -2,7 +2,7 @@
 layout: post
 title:  "Nanobody CDR3 structure prediction"
 date:   2025-02-13 2:27:00
-categories: [Science notes]
+categories: [Papers]
 ---
 Four years after the protein folding problem was allegedly solved, we still can't reliably predict how or where antibodies bind to their antigens. A recent report identifies one source of continued difficulty.
 

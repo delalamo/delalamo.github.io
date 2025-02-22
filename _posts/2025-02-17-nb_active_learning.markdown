@@ -2,7 +2,7 @@
 layout: post
 title:  "Estimating an antibody's conformational landscape using inverse folding"
 date:   2025-02-17 2:19:00
-categories: [Science notes]
+categories: [Papers]
 ---
 Calculating the full conformational landscape of an antibody, or any medium-sized protein more generally, is computationally expensive. A new preprint introduces a shortcut that could speed this up and accelerate antibody design.
 
