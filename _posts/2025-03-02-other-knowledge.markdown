@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "More thoughts on scientific note-taking"
+date:   2025-03-02 10:45:00
+categories: [Metanotes]
+---
+The core challenge of note-taking in the sciences is how to balance relevance with possible future usefulness.
+
+With the exception of a brief two-page excerpt on pages 94 and 95, ["How to take Smart Notes"](https://bookshop.org/p/books/how-to-take-smart-notes-one-simple-technique-to-boost-writing-learning-and-thinking-s-nke-ahrens/MBY7vjw1pHWndH99) by Sönke Ahrens doesn't actually give any examples of what the process of notetaking might look like. Instead it focuses on the psychological basis for why such a practice might be useful. As such, it failed to answer most of the questions I had that drove me to buy the book in the first place. The big one being how to balance the tradeoff that scientists face between being comprehensive and being sparing in what gets written down.
+
+I'll expand on this by providing an example on a topic with which I'm familiar. A scientist who trains machine learning models on amino acid sequences might have a primary interest in how state-of-the-art methods are designed, but he or she might also need to follow research on how the training data are collected (e.g., DNA sequencing technology); in branching out from training generalist ML models to training antibody-specific ML models, he or she would also need to learn which types of cells are found in circulating blood (where most of these DNA sequences are derived), what types of antibodies might be made by cells found elsewhere, and how other efforts have managed to sequence the DNA of those cells or characterize their antibodies.
+
+The central challenge I'm getting at here is that an interesting research project will need to be well-grounded in at least one field, but often cutting-edge science demands some level of deep familiarity with at least two or three; in the process of building up that familiarity with a new field, scientists will be both explicitly confronted with information that cannot immediately be assigned relevance, and implicitly confronted by the authors' expectation of the readership's familiarity on the topic, leaving much foundational knowledge unmentioned. So a reader unfamiliar in the field will need to make the call about which notes to take, and which notes to skip, and where to read further. Naturally, this problem does not exist when reading about a topic in which he or she is more knowledgeable. Ahrens does not discuss this, and even chalks up the ability to distinguish relevant from irrelevant information as "another skill that can be learned only by doing" (p. 80).

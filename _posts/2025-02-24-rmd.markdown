@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How we teach computers to learn low-dimensional representations of high-dimensional biomolecular systems"
+title:  "Low-dimensional representations of MD simulations"
 date:   2025-02-24 7:16:00
 categories: [Papers]
 ---
