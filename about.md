@@ -29,7 +29,7 @@ Cell: +1 (617) 869 2425
 
 **DevOps, cloud computing, and pipelining**
 *   Some experience building containerization (Docker, Singularity/Apptainer) and Nextflow pipelines
-*   Some experience with Heroku, Azure, and GCP
+*   Some experience with Heroku and GCP
 
 **Programming skills**
 *   Comfortable with Python (NumPy, PyTorch, Pandas, SciKit-Learn, BioPython), R (ggplot2), Bash and the Unix command line
